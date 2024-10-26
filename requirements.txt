@@ -1,0 +1,7 @@
+Flask==2.2.2
+google-generativeai==0.1.0  # Replace with the actual version you're using
+googletrans==4.0.0-rc1  # Latest stable version at the time of writing
+pandas==1.5.0  # Replace with the actual version you're using
+scikit-learn==1.1.3  # Replace with the actual version you're using
+joblib==1.1.0  # Replace with the actual version you're using
+mysql-connector-python==8.0.29  # Replace with the actual version you're using
